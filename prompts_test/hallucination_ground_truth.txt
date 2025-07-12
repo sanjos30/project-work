@@ -1,0 +1,115 @@
+Q: 1. List all debit transactions that occurred in October(2024-10-01 to 2024-10-31). Include details such as merchant, category, amount, payment mode, and transaction type.
+ A: These are the debit transactions that occurred in October 2024:
+
+1. Transaction ID: CYQKPOGKZ9LM1L
+   - Date: 2024-10-03
+   - Merchant: Electricity Bill
+   - Category: Utilities
+   - Amount: 4499.64 INR
+   - Payment Mode: UPI
+   - Transaction Type: Debit
+
+2. Transaction ID: 55Q4PA1QF3R7WP
+   - Date: 2024-10-15
+   - Merchant: Uber
+   - Category: Travel
+   - Amount: 241.5 INR
+   - Payment Mode: Netbanking
+   - Transaction Type: Debit
+
+
+Q: 2. How many transactions were recorded in December(2024-12-01 to 2024-12-31), and what was the total amount spent in INR during that month?
+ A: In December 2024, there were 9 transactions recorded. The total amount spent during that month was calculated by summing up the amounts of all debit transactions:
+
+1. Flipkart (2024-12-04): 2819.43 INR
+2. Spencers (2024-12-16): 3758.65 INR
+3. INOX (2024-12-22): 4083.83 INR
+4. Swiggy (2024-12-29): 1752.61 INR
+5. Water Bill (2024-12-30): 413.06 INR
+
+Total amount spent in December 2024 = 12827.58 INR
+
+
+Q: 3. Identify the payment modes used for transactions categorized under "utilities" in 2024.
+ A: In 2024, the payment modes used for transactions for utilities are:
+
+1. Netbanking
+2. UPI
+3. Cash
+
+
+Q: 4. Which transaction in the dataset has the highest amount in INR, and what are the details of that transaction?
+ A: The transaction with the highest amount in INR is:
+- Transaction ID: JBMPTLVJANK2KM
+- Date: 2024-09-03
+- Merchant: Company Payroll
+- Category: Job
+- Amount: 80036.74 INR
+- Currency: INR
+- Payment Mode: Netbanking
+- Receiver Account Number: 7795839006956
+- Sender Account Number: 2976149969728
+- Type: credit
+
+
+Q: 5. Provide a summary of all transactions with the merchant "Company Payroll" that occurred in 2024, including the total amount credited.
+ A: Total Amount Credited in 2024:  
+55,851.6 + 40,144 + 80,036.7 + 20,277.8 + 70,897.9 + 74,755.1 = 341,963.1 INR
+
+
+Q: 6. How many transactions in the dataset were conducted using netbanking, and what is the total amount debited in INR using this payment mode?
+ A: To determine the number of transactions conducted using netbanking and the total amount debited in INR using this payment mode, we need to analyze the dataset for transactions with the payment mode "netbanking" and type "debit."
+ Total transactions with payment mode "netbanking": 32
+ Total Amount Debited Using Netbanking: 22331.05 INR
+
+
+Q: 7. What is the total amount credited from transactions categorized as 'funds' in March(2025-03-01 to 2025-03-31), and which merchants were involved?
+ A: In March 2025, there is one transactions categorized as 'funds':
+
+1. Transaction ID: B02U485Y2JX7E3
+   - Date: 2025-03-12
+   - Merchant: HDFC Mutual
+   - Amount: 7174.48 INR
+
+The total amount credited from transactions categorized as 'funds' in March 2025 is 7174.48.
+
+
+Q: 8. Identify all transactions associated with the merchant "Myntra" and provide a total count and amount for each payment mode used.
+ A: To identify all transactions associated with the merchant "Myntra" and provide a total count and amount for each payment mode used, we need to filter the transactions by the merchant name "Myntra" and then group them by payment mode. Based on the provided data, there is only one transaction associated with "Myntra":
+
+1. Transaction ID: UI0VNQ9BNKGNRA
+   - Date: 2025-03-06
+   - Merchant: Myntra
+   - Category: online_shopping
+   - Amount: 3081.79 INR
+   - Currency: INR
+   - Payment Mode: card
+   - Type: debit
+
+Now, let's summarize the total count and amount for each payment mode:
+
+- Payment Mode: card
+  - Total Count: 1
+  - Total Amount: 3081.79 INR
+
+Thus, there is only one transaction with Myntra, and it was made using a card with a total amount of 3081.79 INR.
+
+
+Q: 9. List all transactions involving the merchant "D-Mart" and calculate the average transaction amount in INR for these entries.
+ A: To list all transactions involving the merchant "D-Mart" and calculate the average transaction amount, we need to identify the relevant entries from the table and then compute the average.
+
+Here are the transactions involving "D-Mart":
+
+1. Transaction ID: 9M2W93V6DZ8W2X, Date: 2025-01-09, Amount: 2785.09 INR
+2. Transaction ID: 7ZCOQSV3QVJNZ3, Date: 2025-02-12, Amount: 672.00 INR
+
+The average transaction amount for "D-Mart" is 1728.55 INR.
+
+
+Q: 10. How many transactions were categorized as "travel" and conducted through "netbanking" in 2025, and what is the total amount debited in INR for these transactions?
+ A: From the table provided, we identify the following transactions in 2025 that match the criteria:
+
+1. Transaction ID: 9EOTV2D43YY3BO, Date: 2025-05-15, Merchant: MakeMyTrip, Amount: 2186.72 INR
+2. Transaction ID: 55UX1TB351B55U, Date: 2025-06-05, Merchant: MakeMyTrip, Amount: 2451.57 INR
+
+The total amount debited for these transactions is: 2186.72 INR + 2451.57 INR = 4638.29 INR

@@ -1,0 +1,25 @@
+1. Calculate the total amount credited to the account from all job-related transactions in INR.
+2. Determine the average transaction amount for all travel-related expenses across all payment modes.
+3. What is the total amount spent on groceries using netbanking in INR?
+4. Calculate the average amount of all online shopping transactions made through card payments.
+5. Identify the payment modes used for transactions categorized under "utilities" in 2024.
+6. What is the total amount credited from all funds-related transactions in INR?
+7. Calculate the percentage of total transactions that fall under the category of travel.
+8. Determine the average amount spent on groceries per transaction in INR.
+9. Summarize the monthly trend of debit transactions made through the UPI payment mode.
+10. What is the total amount spent on online shopping using netbanking?
+11. Calculate the total amount spent on others category using card payments in INR.
+12. What is the average amount of funds-related transactions made via netbanking?
+13. Determine the total number of transactions related to job income.
+14. Calculate the average transaction amount for all debit transactions across all categories.
+15. What is the total amount spent on utilities using cash payments in INR?
+16. Determine the month with the highest total expenditure on groceries.
+17. Calculate the average amount of credit transactions in the stocks category.
+18. What is the total amount credited in December(2024-12-01 to 2024-12-31)?
+19. Determine the total amount of refunds received in INR.
+20. What is the average amount credited from HDFC Mutual?
+21. What is the total amount spent on travel-related transactions using card payments in INR?
+22. Determine the average monthly income from Zerodha.
+23. Calculate the total number of transactions made with cash.
+24. What is the total amount spent in March(2025-03-01 to 2025-03-31)?
+25. Determine the average transaction amount for all debit transactions in the online shopping category.
