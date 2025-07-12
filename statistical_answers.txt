@@ -1,0 +1,507 @@
+Q: 1. Calculate the total amount credited to the account from all job-related transactions in INR.
+ A: To calculate the total amount credited to the account from all job-related transactions, we need to sum the amounts of all transactions categorized under "job" with a "credit" type. Here are the relevant transactions:
+
+1. 2024-07-02 | Company Payroll | 55851.6 INR
+2. 2024-08-05 | Company Payroll | 40144 INR
+3. 2024-09-03 | Company Payroll | 80036.7 INR
+4. 2024-10-06 | Company Payroll | 20277.8 INR
+5. 2024-11-01 | Company Payroll | 70897.9 INR
+6. 2024-12-03 | Internship Stipend | 5745.13 INR
+7. 2024-12-05 | Company Payroll | 74755.1 INR
+8. 2025-01-06 | Company Payroll | 62163.4 INR
+9. 2025-02-05 | Company Payroll | 51839.9 INR
+10. 2025-03-03 | Company Payroll | 69201.9 INR
+11. 2025-03-07 | Freelance Payment | 7341.68 INR
+12. 2025-04-01 | Company Payroll | 43543 INR
+13. 2025-05-07 | Company Payroll | 31650.9 INR
+14. 2025-06-03 | Company Payroll | 36747.3 INR
+15. 2025-06-05 | Internship Stipend | 29742.1 INR
+
+Now, summing these amounts:
+
+55851.6 + 40144 + 80036.7 + 20277.8 + 70897.9 + 5745.13 + 74755.1 + 62163.4 + 51839.9 + 69201.9 + 7341.68 + 43543 + 31650.9 + 36747.3 + 29742.1 = 680936.51 INR
+
+The total amount credited to the account from all job-related transactions is 680,936.51 INR.
+
+
+Q: 2. Determine the average transaction amount for all travel-related expenses across all payment modes.
+ A: To determine the average transaction amount for all travel-related expenses across all payment modes, we need to filter the transactions with the category "travel" and then calculate the average of their amounts.
+
+Here are the travel-related transactions from the table:
+
+1. Uber on 2024-07-13: 1943.86 INR
+2. Ola on 2024-07-17: 1228.83 INR
+3. Uber on 2024-10-15: 241.5 INR
+4. Ola on 2024-11-12: 2290.94 INR
+5. Ola on 2025-02-11: 4323.84 INR
+6. Ola on 2025-03-28: 2502.16 INR
+7. IRCTC on 2025-04-16: 958.53 INR
+8. IRCTC on 2025-05-07: 2554.37 INR
+9. MakeMyTrip on 2025-05-15: 2186.72 INR
+10. MakeMyTrip on 2025-06-05: 2451.57 INR
+
+Now, we calculate the average of these amounts:
+
+\[
+\text{Average} = \frac{1943.86 + 1228.83 + 241.5 + 2290.94 + 4323.84 + 2502.16 + 958.53 + 2554.37 + 2186.72 + 2451.57}{10}
+\]
+
+\[
+\text{Average} = \frac{20682.32}{10} = 2068.232
+\]
+
+Therefore, the average transaction amount for all travel-related expenses is approximately 2068.23 INR.
+
+
+Q: 3. What is the total amount spent on groceries using netbanking in INR?
+ A: To find the total amount spent on groceries using netbanking in INR, we need to filter the transactions with the category "groceries" and payment mode "netbanking". From the provided data, these transactions are:
+
+1. Transaction on 2025-03-01 at Spencers for 419.37 INR.
+2. Transaction on 2025-05-29 at Reliance Fresh for 4595.15 INR.
+
+Adding these amounts gives us:
+
+\[ 419.37 + 4595.15 = 5014.52 \]
+
+Therefore, the total amount spent on groceries using netbanking is 5014.52 INR.
+
+
+Q: 4. Calculate the average amount of all online shopping transactions made through card payments.
+ A: To calculate the average amount of all online shopping transactions made through card payments, we need to filter the transactions that meet the criteria: category as "online_shopping" and payment_mode as "card". Let's identify these transactions from the provided data:
+
+1. Transaction ID: GHHLFD4IEG6HHO
+   - Date: 2024-08-30
+   - Merchant: Flipkart
+   - Amount: 2975.71 INR
+
+2. Transaction ID: UI0VNQ9BNKGNRA
+   - Date: 2025-03-06
+   - Merchant: Myntra
+   - Amount: 3081.79 INR
+
+Now, calculate the average of these amounts:
+
+\[
+\text{Average} = \frac{2975.71 + 3081.79}{2} = \frac{6057.5}{2} = 3028.75 \text{ INR}
+\]
+
+The average amount of all online shopping transactions made through card payments is 3028.75 INR.
+
+
+Q: 5. Identify the payment modes used for transactions categorized under "utilities" in 2024.
+ A: In 2024, the payment modes used for transactions categorized under "utilities" are:
+
+1. Netbanking
+2. UPI
+3. Cash
+
+Q: 6. What is the total amount credited from all funds-related transactions in INR?
+ A: To find the total amount credited from all funds-related transactions, we need to sum the amounts for transactions where the category is "funds" and the type is "credit". From the table, the relevant transactions are:
+
+1. 2024-08-19 | SBI Mutual | 12,637.7 INR
+2. 2025-01-01 | SBI Mutual | 12,466.6 INR
+3. 2025-03-12 | HDFC Mutual | 7,174.48 INR
+4. 2025-05-16 | HDFC Mutual | 7,274.98 INR
+
+Adding these amounts together:
+
+12,637.7 + 12,466.6 + 7,174.48 + 7,274.98 = 39,553.76 INR
+
+Therefore, the total amount credited from all funds-related transactions is 39,553.76 INR.
+
+
+Q: 7. Calculate the percentage of total transactions that fall under the category of travel.
+ A: To calculate the percentage of total transactions that fall under the category of travel, we first need to determine the total number of transactions and the number of transactions specifically categorized as travel.
+
+Let's count the transactions in the travel category from the table:
+
+1. Uber (2024-07-13)
+2. Ola (2024-07-17)
+3. Uber (2024-10-15)
+4. Ola (2024-11-12)
+5. Ola (2025-02-11)
+6. Ola (2025-03-28)
+7. IRCTC (2025-04-16)
+8. IRCTC (2025-05-07)
+9. MakeMyTrip (2025-05-15)
+10. MakeMyTrip (2025-06-05)
+
+There are 10 transactions in the travel category.
+
+Now, let's count the total number of transactions in the table. By counting the rows, we find there are 56 transactions in total.
+
+Finally, we calculate the percentage of transactions in the travel category:
+
+\[
+\text{Percentage of travel transactions} = \left(\frac{\text{Number of travel transactions}}{\text{Total number of transactions}}\right) \times 100
+\]
+
+\[
+\text{Percentage of travel transactions} = \left(\frac{10}{56}\right) \times 100 \approx 17.86\%
+\]
+
+Therefore, approximately 17.86% of the total transactions fall under the category of travel.
+
+
+Q: 8. Determine the average amount spent on groceries per transaction in INR.
+ A: To determine the average amount spent on groceries per transaction, we first need to identify all transactions in the "groceries" category and then calculate the average of their amounts.
+
+From the data provided, the transactions related to groceries are:
+
+1. 2024-07-23 | Reliance Fresh | 2171.5 INR
+2. 2024-07-30 | Reliance Fresh | 476.05 INR
+3. 2024-12-16 | Spencers | 3758.65 INR
+4. 2025-01-09 | D-Mart | 2785.09 INR
+5. 2025-01-21 | Reliance Fresh | 1258.27 INR
+6. 2025-02-12 | D-Mart | 672 INR
+7. 2025-02-14 | Reliance Fresh | 1209.68 INR
+8. 2025-03-01 | Spencers | 419.37 INR
+9. 2025-05-29 | Reliance Fresh | 4595.15 INR
+
+Now, we sum these amounts:
+
+2171.5 + 476.05 + 3758.65 + 2785.09 + 1258.27 + 672 + 1209.68 + 419.37 + 4595.15 = 17145.76 INR
+
+There are 9 transactions in total. To find the average amount spent per transaction, divide the total amount by the number of transactions:
+
+Average = Total Amount / Number of Transactions = 17145.76 INR / 9 ≈ 1905.08 INR
+
+Therefore, the average amount spent on groceries per transaction is approximately 1905.08 INR.
+
+
+Q: 9. Summarize the monthly trend of debit transactions made through the UPI payment mode.
+ A: To summarize the monthly trend of debit transactions made through the UPI payment mode, we need to filter the transactions based on the following criteria:
+
+1. Transaction type: Debit
+2. Payment mode: UPI
+
+Let's break down the transactions by month and year:
+
+- **July 2024:**
+  - 2024-07-13: Uber - ₹1943.86
+  - 2024-07-17: Ola - ₹1228.83
+
+- **August 2024:**
+  - 2024-08-25: Petrol Bunk - ₹2023
+
+- **September 2024:**
+  - 2024-09-18: Electricity Bill - ₹308.75
+
+- **October 2024:**
+  - 2024-10-03: Electricity Bill - ₹4499.64
+
+- **December 2024:**
+  - 2024-12-04: Flipkart - ₹2819.43
+  - 2024-12-30: Water Bill - ₹413.06
+
+- **January 2025:**
+  - 2025-01-21: Reliance Fresh - ₹1258.27
+
+- **February 2025:**
+  - No UPI debit transactions
+
+- **March 2025:**
+  - 2025-03-28: Ola - ₹2502.16
+  - 2025-03-28: Amazon India - ₹3649.6
+
+- **April 2025:**
+  - 2025-04-16: IRCTC - ₹958.53
+
+- **May 2025:**
+  - 2025-05-01: Mobile Recharge - ₹3758.89
+  - 2025-05-07: IRCTC - ₹2554.37
+  - 2025-05-07: Mobile Recharge - ₹266.81
+
+- **June 2025:**
+  - No UPI debit transactions
+
+**Summary:**
+- The monthly trend shows varying amounts of UPI debit transactions, with some months having multiple transactions and others having none.
+- The highest number of UPI debit transactions occurred in May 2025, with three transactions.
+- There were no UPI debit transactions in February 2025 and June 2025.
+- The amounts vary significantly, indicating diverse spending patterns on different categories such as
+
+
+Q: 10. What is the total amount spent on online shopping using netbanking?
+ A: To find the total amount spent on online shopping using netbanking, we need to filter the transactions where the category is "online_shopping" and the payment mode is "netbanking". 
+
+From the data provided, there are no transactions that meet both criteria of being in the "online_shopping" category and using "netbanking" as the payment mode. Therefore, the total amount spent on online shopping using netbanking is 0 INR.
+
+
+Q: 11. Calculate the total amount spent on others category using card payments in INR.
+ A: To calculate the total amount spent on the "others" category using card payments in INR, we need to filter the transactions by the category "others" and payment mode "card." From the provided data, we have:
+
+1. Transaction ID: KYRYU46ZSZKEJR, Date: 2025-01-02, Merchant: Swiggy, Amount: 1841.15 INR
+2. Transaction ID: BU74JKES2OXQQE, Date: 2025-01-06, Merchant: Barista, Amount: 375.17 INR
+
+Adding these amounts gives:
+
+1841.15 INR + 375.17 INR = 2216.32 INR
+
+Therefore, the total amount spent on the "others" category using card payments is 2216.32 INR.
+
+
+Q: 12. What is the average amount of funds-related transactions made via netbanking?
+ A: To find the average amount of funds-related transactions made via netbanking, we first need to identify all transactions in the "funds" category with the payment mode "netbanking." From the table, these transactions are:
+
+1. H56A29XR89MNF2 | 2024-08-19 | SBI Mutual | funds | 12637.7 | INR | netbanking
+2. EKF5TTAEODNVZ4 | 2025-01-01 | SBI Mutual | funds | 12466.6 | INR | netbanking
+3. B02U485Y2JX7E3 | 2025-03-12 | HDFC Mutual | funds | 7174.48 | INR | netbanking
+4. PTORP5N2THDAF1 | 2025-05-16 | HDFC Mutual | funds | 7274.98 | INR | netbanking
+
+Now, we calculate the average of these amounts:
+
+\[
+\text{Average} = \frac{12637.7 + 12466.6 + 7174.48 + 7274.98}{4} = \frac{39553.76}{4} = 9888.44
+\]
+
+The average amount of funds-related transactions made via netbanking is 9,888.44 INR.
+
+
+Q: 13. Determine the total number of transactions related to job income.
+ A: To determine the total number of transactions related to job income, we need to count the transactions in the table where the category is "job" and the type is "credit". 
+
+From the provided data:
+
+1. JRVY2Q3RXKEBHI - Company Payroll
+2. 9HRIE176Z8F2HB - Company Payroll
+3. JBMPTLVJANK2KM - Company Payroll
+4. IO7BTWECHH7JBE - Company Payroll
+5. O3PCE1OYLN7C5R - Company Payroll
+6. HXSCGBDVKV8MOQ - Internship Stipend
+7. M69IQGYA3LXE8P - Company Payroll
+8. XUU29ZGJ74SAQV - Company Payroll
+9. IIH18QW33SBRTI - Company Payroll
+10. FNOL9C0S23M4N1 - Company Payroll
+11. QG7HBBQO7EB8VJ - Freelance Payment
+12. X44UWSAHJ3WW1J - Company Payroll
+13. PYPCM7DO8VGRWM - Company Payroll
+14. KKRB2AJVC9W3NE - Company Payroll
+15. BI2NTQNWGYWL6V - Internship Stipend
+
+There are 15 transactions related to job income.
+
+
+Q: 14. Calculate the average transaction amount for all debit transactions across all categories.
+ A: To calculate the average transaction amount for all debit transactions, we first need to sum up the amounts of all debit transactions and then divide by the number of debit transactions.
+
+Let's identify and sum the amounts for all debit transactions:
+
+1. Uber: 1943.86
+2. Ola: 1228.83
+3. Electricity Bill: 1373.72
+4. Reliance Fresh: 2171.5
+5. Reliance Fresh: 476.05
+6. Petrol Bunk: 2023
+7. Flipkart: 2975.71
+8. Electricity Bill: 308.75
+9. Electricity Bill: 4573.34
+10. Electricity Bill: 4499.64
+11. Uber: 241.5
+12. Ola: 2290.94
+13. Swiggy: 1752.61
+14. Water Bill: 413.06
+15. Swiggy: 1841.15
+16. Barista: 375.17
+17. D-Mart: 2785.09
+18. Reliance Fresh: 1258.27
+19. Ola: 4323.84
+20. D-Mart: 672
+21. Reliance Fresh: 1209.68
+22. Spencers: 419.37
+23. Barista: 995.78
+24. Myntra: 3081.79
+25. Ola: 2502.16
+26. Amazon India: 3649.6
+27. IRCTC: 958.53
+28. Mobile Recharge: 653.24
+29. Mobile Recharge: 3758.89
+30. IRCTC: 2554.37
+31. Mobile Recharge: 266.81
+32. MakeMyTrip: 2186.72
+33. Reliance Fresh: 4595.15
+34. MakeMyTrip: 2451.57
+
+Now, let's calculate the total sum and the number of debit transactions:
+
+Total sum of debit transactions = 1943.86 + 1228.83 + 1373.72 + 2171.5 + 476.05 + 2023 + 2975.71 + 308.75 + 4573.34 + 4499.64 + 241.5 + 2290.94 + 1752.
+
+
+Q: 15. What is the total amount spent on utilities using cash payments in INR?
+ A: To find the total amount spent on utilities using cash payments, we need to filter the transactions where the category is "utilities" and the payment mode is "cash." 
+
+From the provided data, there is only one transaction that fits this criterion:
+
+- Transaction ID: REFDXWS4G6Y50G, Date: 2024-08-25, Merchant: Petrol Bunk, Category: utilities, Amount: 2023 INR, Payment Mode: cash
+
+Therefore, the total amount spent on utilities using cash payments is 2023 INR.
+
+
+Q: 16. Determine the month with the highest total expenditure on groceries.
+ A: To determine the month with the highest total expenditure on groceries, we need to sum up the amounts spent on groceries for each month and identify the month with the highest total.
+
+Let's break down the grocery transactions by month:
+
+1. **July 2024:**
+   - Reliance Fresh: 2171.5
+   - Reliance Fresh: 476.05
+   - Total: 2647.55
+
+2. **December 2024:**
+   - Spencers: 3758.65
+   - Total: 3758.65
+
+3. **January 2025:**
+   - D-Mart: 2785.09
+   - Reliance Fresh: 1258.27
+   - Total: 4043.36
+
+4. **February 2025:**
+   - D-Mart: 672
+   - Reliance Fresh: 1209.68
+   - Total: 1881.68
+
+5. **March 2025:**
+   - Spencers: 419.37
+   - Total: 419.37
+
+6. **May 2025:**
+   - Reliance Fresh: 4595.15
+   - Total: 4595.15
+
+The month with the highest total expenditure on groceries is **May 2025**, with a total expenditure of 4595.15 INR.
+
+
+Q: 17. Calculate the average amount of credit transactions in the stocks category.
+ A: To calculate the average amount of credit transactions in the stocks category, we need to identify all transactions in the "stocks" category with a "credit" type and then calculate their average amount.
+
+From the table, the relevant transactions are:
+
+1. Transaction ID: IIGEZVDKOW7ARA, Amount: 11,056.00 INR
+2. Transaction ID: UXBRDP3KM473Y4, Amount: 8,876.54 INR
+3. Transaction ID: 0DHVFTN1VG14D6, Amount: 7,896.41 INR
+
+Now, calculate the average:
+
+\[
+\text{Average} = \frac{11,056.00 + 8,876.54 + 7,896.41}{3} = \frac{27,828.95}{3} = 9,276.32
+\]
+
+The average amount of credit transactions in the stocks category is 9,276.32 INR.
+
+
+Q: 18. What is the total amount credited in December(2024-12-01 to 2024-12-31)?
+ A: To find the total amount credited in December 2024, we need to sum up the amounts for all transactions with a "credit" type within the specified date range (2024-12-01 to 2024-12-31).
+
+From the table, the credit transactions in December 2024 are:
+
+1. HXSCGBDVKV8MOQ | 2024-12-03 | Internship Stipend | 5745.13
+2. M69IQGYA3LXE8P | 2024-12-05 | Company Payroll | 74755.1
+3. IIGEZVDKOW7ARA | 2024-12-26 | Zerodha | 11056
+
+Adding these amounts gives:
+
+5745.13 + 74755.1 + 11056 = 91556.23
+
+Therefore, the total amount credited in December 2024 is 91,556.23 INR.
+
+
+Q: 19. Determine the total amount of refunds received in INR.
+ A: To determine the total amount of refunds received in INR, we need to identify transactions categorized as "credit" under the "type" column and associated with the "Refund" merchant. According to the provided data, there is one transaction that fits this criterion:
+
+- Transaction ID: BPPBGWBIPENRVQ, Amount: 1874.67 INR
+
+Therefore, the total amount of refunds received is 1874.67 INR
+
+Q: 20. What is the average amount credited from HDFC Mutual?
+ A: To find the total amount credited from all HDFC Mutual transactions, we need to sum and average the amounts for transactions. From the table, the relevant transactions are:
+
+3. 2025-03-12 | HDFC Mutual | 7,174.48 INR
+4. 2025-05-16 | HDFC Mutual | 7,274.98 INR
+
+Total = 7,174.48 + 7,274.98 = 14,449.46
+Average = 14449.46 / 2 = 10811.97
+
+
+Q: 21. What is the total amount spent on travel-related transactions using card payments in INR?
+ A: To determine the total amount spent on travel-related transactions using card payments in INR, we need to filter the transactions based on the category "travel" and the payment mode "card". From the provided data, the relevant transaction is:
+
+- Date: 2025-02-11, Merchant: Ola, Amount: 4323.84 INR
+
+Therefore, the total amount spent on travel-related transactions using card payments is 4323.84 INR.
+
+
+Q: 22. Determine the average monthly income from Zerodha.
+ A: To determine the average monthly income from Zerodha, we need to identify all transactions involving Zerodha and then calculate the average of these transactions over the months they occurred.
+
+From the data provided, the transactions involving Zerodha are:
+
+1. Transaction on 2024-12-26 for 11,056 INR
+2. Transaction on 2025-03-22 for 8,876.54 INR
+3. Transaction on 2025-04-20 for 7,896.41 INR
+
+These transactions occurred over three different months: December 2024, March 2025, and April 2025.
+
+To find the average monthly income from Zerodha, we sum the amounts and divide by the number of months:
+
+Total income from Zerodha = 11,056 + 8,876.54 + 7,896.41 = 27,828.95 INR
+
+Number of months = 3
+
+Average monthly income from Zerodha = Total income / Number of months = 27,828.95 / 3 = 9,276.32 INR
+
+Therefore, the average monthly income from Zerodha is 9,276.32 INR.
+
+
+Q: 23. Calculate the total number of transactions made with cash.
+ A: To calculate the total number of transactions made with cash, we need to count the entries in the table where the `payment_mode` is "cash." By examining the table, we can identify the following transactions made with cash:
+
+1. Transaction ID: REFDXWS4G6Y50G (2024-08-25, Petrol Bunk)
+2. Transaction ID: NS444ZQ6RTAHCM (2024-11-12, Ola)
+3. Transaction ID: PF4G3X5G7RBM7K (2025-03-02, Barista)
+
+There are a total of 3 transactions made with cash.
+
+
+Q: 24. What is the total amount spent in March(2025-03-01 to 2025-03-31)?
+ A: To calculate the total amount spent in March 2025, we need to sum up all the debit transactions within the date range from 2025-03-01 to 2025-03-31. Here are the relevant transactions:
+
+1. 2025-03-01 | Spencers | groceries | 419.37 | debit
+2. 2025-03-02 | Barista | others | 995.78 | debit
+3. 2025-03-06 | Myntra | online_shopping | 3081.79 | debit
+4. 2025-03-26 | Mobile Recharge | utilities | 653.24 | debit
+5. 2025-03-28 | Ola | travel | 2502.16 | debit
+6. 2025-03-28 | Amazon India | online_shopping | 3649.6 | debit
+
+Now, let's sum these amounts:
+
+- 419.37
+- 995.78
+- 3081.79
+- 653.24
+- 2502.16
+- 3649.6
+
+Total amount spent in March 2025 = 419.37 + 995.78 + 3081.79 + 653.24 + 2502.16 + 3649.6 = 11301.94 INR
+
+Therefore, the total amount spent in March 2025 is 11,301.94 INR.
+
+
+Q: 25. Determine the average transaction amount for all debit transactions in the online shopping category.
+ A: To determine the average transaction amount for all debit transactions in the online shopping category, we first need to identify the relevant transactions from the table. 
+
+From the data provided, the transactions in the online shopping category with a debit type are:
+
+1. Transaction ID: GHHLFD4IEG6HHO, Date: 2024-08-30, Merchant: Flipkart, Amount: 2975.71 INR
+2. Transaction ID: UI0VNQ9BNKGNRA, Date: 2025-03-06, Merchant: Myntra, Amount: 3081.79 INR
+3. Transaction ID: 2OPJ3V9P9G3Z32, Date: 2025-03-28, Merchant: Amazon India, Amount: 3649.60 INR
+
+Now, we calculate the average transaction amount:
+
+\[
+\text{Average} = \frac{2975.71 + 3081.79 + 3649.60}{3} = \frac{9707.10}{3} = 3235.70 \, \text{INR}
+\]
+
+Therefore, the average transaction amount for all debit transactions in the online shopping category is 3235.70 INR.
+
+

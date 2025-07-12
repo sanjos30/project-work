@@ -1,0 +1,10 @@
+1. List all debit transactions that occurred in October(2024-10-01 to 2024-10-31). Include details such as merchant, category, amount, payment mode, and transaction type.
+2. How many transactions were recorded in December(2024-12-01 to 2024-12-31), and what was the total amount spent in INR during that month?
+3. Identify the payment modes used for transactions categorized under "utilities" in 2024.
+4. Which transaction in the dataset has the highest amount in INR, and what are the details of that transaction?
+5. Provide a summary of all transactions with the merchant "Company Payroll" that occurred in 2024, including the total amount credited.
+6. How many transactions in the dataset were conducted using netbanking, and what is the total amount debited in INR using this payment mode?
+7. What is the total amount credited from transactions categorized as 'funds' in March(2025-03-01 to 2025-03-31), and which merchants were involved?
+8. Identify all transactions associated with the merchant "Myntra" and provide a total count and amount for each payment mode used.
+9. List all transactions involving the merchant "D-Mart" and calculate the average transaction amount in INR for these entries.
+10. How many transactions were categorized as "travel" and conducted through "netbanking" in 2025, and what is the total amount debited in INR for these transactions?
